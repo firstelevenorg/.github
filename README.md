@@ -44,71 +44,71 @@ As Africans, we possess unique abilities and intelligence, yet our current actio
 
 # Values
 
-• Encourage employee decision-making.
-• Emphasize long-term impact.
-• Avoid rules.
-• Maintain order.
-• Embrace adventure.
-• Prioritize mission over profit.
-• Recognize the importance of every detail.
+- Encourage employee decision-making.
+- Emphasize long-term impact.
+- Avoid rules.
+- Maintain order.
+- Embrace adventure.
+- Prioritize mission over profit.
+- Recognize the importance of every detail.
 
-##### Valued Behaviors
+### Valued Behaviors
 
 We believe that a company’s true values are reflected in the hiring decisions they make, the way they reward their employees, and the way they handle dismissals. The following behaviors and skills are most important to us at FirstEleven. If you share these values and want to work with people who do, you are likely to thrive in our company.
 
-##### Judgment
+### Judgment
 
-• You make decisions based on their long-term impact, not just their immediate effects.
-• You are open and transparent with information.
+- You make decisions based on their long-term impact, not just their immediate effects.
+- You are open and transparent with information.
 
-##### Selflessness
+### Selflessness
 
-• You help your colleagues succeed, even if it means putting your own interests aside.
-• You are open-minded and humble, and value other people's ideas.
-• You engage in open debate and support decisions even if you disagree with them.
+- You help your colleagues succeed, even if it means putting your own interests aside.
+- You are open-minded and humble, and value other people's ideas.
+- You engage in open debate and support decisions even if you disagree with them.
 
-##### Courage
+### Courage
 
-• You take calculated risks and are comfortable with the possibility of failure.
-• You speak up when you see behaviors inconsistent with our values.
-• You give and receive feedback freely, regardless of your position within the company.
+- You take calculated risks and are comfortable with the possibility of failure.
+- You speak up when you see behaviors inconsistent with our values.
+- You give and receive feedback freely, regardless of your position within the company.
 
-##### Communication
+### Communication
 
-• You communicate directly and honestly.
-• You listen actively and seek to understand before responding.
-• You remain calm and composed in high-pressure situations.
-• You are articulate and concise in your writing and thinking.
-• You adapt your communication style to work effectively with people from different backgrounds and cultures.
+- You communicate directly and honestly.
+- You listen actively and seek to understand before responding.
+- You remain calm and composed in high-pressure situations.
+- You are articulate and concise in your writing and thinking.
+- You adapt your communication style to work effectively with people from different backgrounds and cultures.
 
-##### Inclusion
+### Inclusion
 
-• You treat everyone with respect, regardless of their position.
-• You actively work to create diverse and inclusive teams.
-• You speak up if you see someone being marginalized.
+- You treat everyone with respect, regardless of their position.
+- You actively work to create diverse and inclusive teams.
+- You speak up if you see someone being marginalized.
 
-##### Integrity
+### Integrity
 
-• You own up to your mistakes and share what you’ve learned with others.
-• You share information internally, even if it is uncomfortable to do so.
-• You trust your colleagues to act in good faith, and hold yourself to the same standard.
+- You own up to your mistakes and share what you’ve learned with others.
+- You share information internally, even if it is uncomfortable to do so.
+- You trust your colleagues to act in good faith, and hold yourself to the same standard.
 
-##### Passion
+### Passion
 
-• You are deeply committed to FirstEleven’s success, even if it means working hard and taking risks.
-• You inspire others with your enthusiasm and dedication to excellence.
-• You are passionate about your work and find it rewarding.
+- You are deeply committed to FirstEleven’s success, even if it means working hard and taking risks.
+- You inspire others with your enthusiasm and dedication to excellence.
+- You are passionate about your work and find it rewarding.
 
-##### Innovation
+### Innovation
 
-• You come up with new and creative ideas that have a meaningful impact.
-• You look for ways to simplify and streamline processes.
-• You challenge the status quo and seek out better solutions.
-• You are comfortable working in a fast-paced, constantly evolving environment.
+- You come up with new and creative ideas that have a meaningful impact.
+- You look for ways to simplify and streamline processes.
+- You challenge the status quo and seek out better solutions.
+- You are comfortable working in a fast-paced, constantly evolving environment.
 
-##### Curiosity
+### Curiosity
 
-• You use your free time to learn and explore new topics.
-• You seek out different perspectives and feedback to improve your ideas.
-• You are attentive to changes in trends and preferences.
-• You are skilled at identifying patterns and connections that others might overlook.
+- You use your free time to learn and explore new topics.
+- You seek out different perspectives and feedback to improve your ideas.
+- You are attentive to changes in trends and preferences.
+- You are skilled at identifying patterns and connections that others might overlook.
