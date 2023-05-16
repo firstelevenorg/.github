@@ -37,7 +37,7 @@ At our core, we are driven by a mission to empower Africans through technology a
 
 ## What do we do ?
 
-At our core, we are driven by innovation and constant improvement. We believe in the transformative power of technology to enhance and elevate every industry. Our mission is to create a world where businesses can flourish, innovation is embraced, and technology is used to improve people's lives. We are passionate about making a positive impact in the world, and we are dedicated to changing the game. Simply put, we revolutionize industries.
+We are driven by innovation and constant improvement. We believe in the transformative power of technology to enhance and elevate every industry. Our mission is to create a world where businesses can flourish, innovation is embraced, and technology is used to improve people's lives. We are passionate about making a positive impact in the world, and we are dedicated to changing the game. Simply put, we revolutionize industries.
 
 ## Letter from our Founder
 
